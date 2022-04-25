@@ -2,7 +2,7 @@ sudo su
 password : Student
 dnf install docker
 systemctl start docker
-docker pull 6921/flaskimg:webApp
+docker pull 6921/flaskimg:webApp || docker pull jenkins/jankins:lts || docker pull mongo
 docker images #to check locally downloaded imahges
 docker run -d -p 8089:90 [Image id]
 docker ps
