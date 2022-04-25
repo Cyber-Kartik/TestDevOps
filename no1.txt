@@ -1,0 +1,35 @@
+Ansible. : This open source tool provides software-related services like 
+application deployment, configuration management etc. ...
+
+Chef : This tool is used for checking the configurations which are applied everywhere and also helps in automating the infrastructure
+
+Docker : Docker’s, on the other hand, uses the concept of Containers which virtualizes the Operating System. It can be used to package the application (for example, WAR file) along with the dependencies to be used for deploying in different environments.
+ 
+ELK Stack : The Elastic Stack—more commonly known as ELK Stack—combines Elasticsearch, Logstash and Kibana. Elasticsearch is a modern search and analytics engine based on Apache Lucene, while Logstash provides data processing and enrichment. Kibana offers logs discovery and visualization.
+ 
+Git :  It is a free and open source tool and supports most of the version control features of check-in, commits, branches, merging, labels, push and pull to/from GitHub etc.
+
+Jenkins : Jenkins is an automation server. It is an open source tool and written in Java. It helps many projects in automating, building and deploying.
+ 
+Nagios : It is an open source tool. This tool is written in C language. It is used for network monitoring, server monitoring, and applications monitoring.
+
+Puppet Enterprise : It is an open source tool. While developing the software this tool will ensure that all the configurations are applied everywhere. Basically, it is a configuration management tool.
+ 
+
+
+
+DevOps is primarily implemented in application development for e-commerce websites,
+ cloud-native applications, and other large distributed platforms.
+ It consists of multiple phases that collectively become the DevOps lifecycle. 
+
+Continuous Development
+Continuous Integration
+Continuous Testing 
+Continuous Feedback
+Continuous Monitoring
+Continuous Deployment
+Continuous Operations
+
+These seven phases are the main constituents that ensure DevOps optimizes all development processes, 
+right from proposal to production and the complete delivery. Here is a phase-wise, complete
+ break-down & analysis of the DevOps lifecycle.
